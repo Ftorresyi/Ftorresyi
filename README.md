@@ -1,9 +1,9 @@
 # Hi there, I'm Yindi Torres
 
-🎯I graduated in System Computer and System Information
-🔎I'm currently looking for a junior Python developer job
-📢Contact me by email: yindiyft@gmail.com
-😉Pronouns: she/her
+<p>🎯I graduated in System Computer and System Information</p>
+<p> 🔎I'm currently looking for a junior Python developer job </p>
+<p>📢Contact me by email: yindiyft@gmail.com</p>
+<p>😉Pronouns: she/her</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yindi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
